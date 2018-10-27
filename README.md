@@ -1,2 +1,2 @@
 # Reports
-KLU Practice school
+KL University Practice school
